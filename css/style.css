@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* all common css start here */
 *{
     margin: 0;
@@ -701,3 +702,59 @@ form input{
 
 /* footer part end */
 
+=======
+/* all common css starts here */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* all common css ends here */
+
+#header{
+    background:#FFF8F3;
+    height: 100px;
+}
+
+.container{
+    width: 1140px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    padding: 30px 25px;
+    font-family: "Ancizar Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.logo{
+    width: 70%;
+}
+ol li a {
+    text-decoration: none;
+    color: black;
+    padding: 0 20px;
+    transition: .5s;
+}
+
+ol li{
+    list-style-type: none
+}
+
+
+.hire{
+    background: #FD6E0A;
+    color: white;
+    width: 80px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px 25px;
+}
+
+
+ol li a:hover{
+    color: rgb(131, 131, 131);
+    
+}
+>>>>>>> ac54e2a7dc465dede2bf2901f3252464802206ee
